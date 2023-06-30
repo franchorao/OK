@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu&display=swap);
+
+*{
+    background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.avatar{
+    display: flex;
+    align-items: center;
+    margin: 2rem 0 5rem 0;
+    size: 50%;  
+}
+
+.links{
+    width: auto;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: cadetblue;
+    border-radius: 4px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
